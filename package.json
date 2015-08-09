@@ -1,0 +1,17 @@
+{
+  "name": "erotik-film",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "x-ray": "^2.0.2",
+    "underscore": "~1.8.3",
+    "then-write-file": "~1.0.0",
+    "bluebird": "~2.9.34"
+  }
+}
